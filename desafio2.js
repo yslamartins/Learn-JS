@@ -1,6 +1,5 @@
 /* 1. Crie uma função que ajude professores a saber se o aluno está aprovado ou reprovado, 
     considerando os pontos abaixo:
-
     1. Lista de alunos:
         - Brayan:
             nota 1: 3
